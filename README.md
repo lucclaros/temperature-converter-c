@@ -30,5 +30,5 @@ Temperature in °F : -279.67
 
 ## Project structure
 temperature-converter-c/
-│── temperature_converter.c # Source code
+│── temp_converter.c # Source code
 │── README.md # Project documentation
